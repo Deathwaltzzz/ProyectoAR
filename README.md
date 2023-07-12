@@ -8,4 +8,4 @@ Click and drag on desktop. Open it on a smartphone and use the device motion sen
 
 Visit the website at [http://](not built yet)
 
-In order to make the kirby set into the phone for the ar experience you need to download and place in the camera the [image](pattern-mlEiCHLw.png]) and kirby will be there!
+In order to make the kirby set into the phone for the ar experience you need to download and place in the camera the [image](pattern-mlEiCHLw.png) and kirby will be there!
